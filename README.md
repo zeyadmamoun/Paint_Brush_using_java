@@ -4,7 +4,7 @@
 
 The **Paint Brush** project is an Applet-based application that allows users to draw basic shapes, doodle freely, and manage their drawings with various tools. The application supports different colors, shapes, and line strokes, along with features like erasing, clearing the canvas, and undo functionality. The project is designed to demonstrate a strong understanding of Object-Oriented Programming (OOP) principles.
 
-![Project ScreenShot](paint brush screen shot.PNG)
+![Project ScreenShot](./paint%20brush%20screen%20shot.PNG)
 
 ## Features
 
